@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+matplotlib
+PyPDF2
+openai
+elevenlabs
